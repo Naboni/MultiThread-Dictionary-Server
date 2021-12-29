@@ -1,0 +1,15 @@
+# ignore submission
+submission/
+
+# ignore intermediate output of LaTeX
+doc/
+
+# ignore macFile
+.DS_Store
+
+.settings
+.classpath
+.project
+
+
+bin/
